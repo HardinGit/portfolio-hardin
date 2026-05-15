@@ -1,7 +1,8 @@
 ---
-title: "AEIOU"
+layout: ../../../layouts/PostLayout.astro
+title: "Why I chose Information Systems 2"
 date: "2025-05-11"
-description: "Whomstd've a damn honsetly"
+description: "Not computer science, not business alone — something in between."
 ---
 
 Yap yap yap.
