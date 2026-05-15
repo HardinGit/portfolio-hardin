@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/PostLayout.astro
+layout: portfolio-hardin/src/layouts/PostLayout.astro
 title: "Why I chose Information Systems"
 date: "2025-05-10"
 description: "Not computer science, not business alone — something in between."
