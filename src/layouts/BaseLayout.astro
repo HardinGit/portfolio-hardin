@@ -12,10 +12,10 @@ const { title } = Astro.props;
   <body>
     <header style="border-bottom: 1px solid var(--border); padding: 1.2rem 0;">
       <nav style="max-width: var(--max-w); margin: 0 auto; padding: 0 1.5rem; display: flex; justify-content: space-between; align-items: center;">
-        <a href="/portfolio-hardin/" style="font-weight: bold; color: var(--text); font-size: 1.1rem;">Hardin</a>
+        <a href={`${import.meta.env.BASE_URL}`} style="font-weight: bold; color: var(--text); font-size: 1.1rem;">Hardin</a>
         <div style="display: flex; gap: 1.5rem;">
-         <a href="/portfolio-hardin/about">About</a>
-         <a href="/portfolio-hardin/blog">Blog</a>
+         <a href={`${import.meta.env.BASE_URL}about`}>About</a>
+         <a href={`${import.meta.env.BASE_URL}blog`}>Blog</a>
         </div>
       </nav>
     </header>
