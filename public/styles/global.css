@@ -22,12 +22,12 @@ body {
 }
 
 a {
-  color: var(--accent);
+  color: inherit;
   text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline;
+  color: var(--accent);
 }
 
 main {
@@ -38,7 +38,6 @@ main {
 
 .prose p {
   margin-bottom: 1.5rem;
-  color: var(--text);
 }
 
 .prose h2 {
