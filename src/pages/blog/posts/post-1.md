@@ -1,7 +1,8 @@
 ---
-title: "Why?"
+layout: ../../layouts/PostLayout.astro
+title: "Why I chose Information Systems"
 date: "2025-05-10"
-description: "Honestly idk on God"
+description: "Not computer science, not business alone — something in between."
 ---
 
 Test
