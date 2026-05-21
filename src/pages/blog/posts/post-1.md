@@ -1,12 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Why I chose Information Systems"
+title: "Google Workspace"
 date: "2025-05-10"
-description: "Not computer science, not business alone — something in between."
+description: "Basics tentang Google Docs"
 ---
 
-Test
-
-Test
-
-Test
+Saya mendapatkan pelajaran tentang cara pembuatan dokumen (sebagian besar pembuatan makalah) dengan Google Docs, dimana saya mulai mengerti cara pemakaian berbagai tools dan fungsi yang dulunya saya tidak mengerti sama sekali

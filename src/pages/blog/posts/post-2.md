@@ -1,11 +1,8 @@
 ---
 layout: ../../../layouts/PostLayout.astro
-title: "Why I chose Information Systems 2"
+title: "Linux Server"
 date: "2025-05-11"
-description: "Not computer science, not business alone — something in between."
+description: "Konfigurasi Server"
 ---
 
-Yap yap yap.
-
-By the end, the inventory app was running at `http://inventory.local`.
-Small thing. But it felt earned.
+Dalam kurun waktu setengah server, saya mempelajari tentang cara konfigurasi, deploy, dan edit server sekaligus tentang keamanan server
